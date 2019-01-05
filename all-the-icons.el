@@ -523,6 +523,7 @@
     (pdf-view-mode                      all-the-icons-octicon "file-pdf"          :v-adjust 0.0 :height 1.0)
     (latex-mode                         all-the-icons-fileicon "tex"              :v-adjust 0.0 :height 1.2)
     (lua-mode                           all-the-icons-fileicon "lua"              :v-adjust 0.0 :height 1.2)
+    (sh-mode                            all-the-icons-alltheicon "script"         :v-adjust 0.0 :height 1.0)
     ))
 
 ;; ====================
