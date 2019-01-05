@@ -521,6 +521,7 @@
     (compilation-mode                   all-the-icons-faicon "cogs"               :v-adjust 0.0 :height 1.0)
     (objc-mode                          all-the-icons-faicon "apple"              :v-adjust 0.0 :height 1.0)
     (pdf-view-mode                      all-the-icons-octicon "file-pdf"          :v-adjust 0.0 :height 1.0)
+    (latex-mode                         all-the-icons-fileicon "tex"              :v-adjust 0.0 :height 1.2)
     ))
 
 ;; ====================
